@@ -8,7 +8,7 @@
 Get in touch!
 
     Linkedin: https://www.linkedin.com/in/florencia-lodosa/
-    por email: florencialodosa@gmail.com
+    Email: florencialodosa@gmail.com
 
 <!---
 florlodosa/florlodosa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
