@@ -4,6 +4,12 @@
 - 🌱 I’m currently learning Node.js and Sequelize
 - 👯 I’m looking to work in an innovative and challenging team
 
+
+Get in touch!
+
+    Linkedin: https://www.linkedin.com/in/florencia-lodosa/
+    por email: florencialodosa@gmail.com
+
 <!---
 florlodosa/florlodosa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
