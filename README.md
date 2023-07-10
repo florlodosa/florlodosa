@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @florlodosa
-- 🔭 I'm about to finish my first Full Stack course!
+- 🔭 I'm a JavaScript Developer!
+- 🌱 I’m working as a full-stack developer for more than a year in web development
+- 👯 I have experience working with React, Node, TypeScript and recently adding experience in mobile with React Native
 - 👀 I’m interested in learn more about many other technologies
-- 🌱 I’m currently learning Node.js and Sequelize
-- 👯 I’m looking to work in an innovative and challenging team
 
 
 Get in touch!
